@@ -1,8 +1,9 @@
-# MA LIBRAIRIE REACT
+# ma-librairie-react
 
 ## About the project
 
 Library create for 14th project in my formation "Application developper - JavaScript React" from OpenClassrooms
+This librairie is available on npm and let you have a react modal ready to use. 
 
 ## Getting started
 
